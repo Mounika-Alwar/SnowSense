@@ -130,6 +130,3 @@ def build_agent():
         verbose=True)
     return executor
 
-executor = build_agent()
-result = executor.invoke({"input": "Fetch siachen and analyse it"})
-print(result)
