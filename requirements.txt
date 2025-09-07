@@ -1,0 +1,7 @@
+rasterio
+numpy
+scipy
+shapely
+plotly
+geopandas
+pytest

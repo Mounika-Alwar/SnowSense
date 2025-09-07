@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Data / Temp
+Data/
+temp.tif
+
+# Others
+*.sqlite3
+.DS_Store
